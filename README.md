@@ -1,0 +1,1 @@
+sample project ssn_sample_git_pjct
